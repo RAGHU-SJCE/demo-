@@ -1,3 +1,3 @@
 # demo
-This is my first Git Repository.
-Author - Raghavendra S
+This is my first Git Repository.<br>
+Author - Raghavendra S</br>
